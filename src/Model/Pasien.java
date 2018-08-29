@@ -10,5 +10,5 @@ package Model;
  * @author admin
  */
 public class Pasien {
-    
+    private String Nama;
 }
